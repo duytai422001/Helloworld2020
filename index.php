@@ -13,7 +13,7 @@
     		<ul>
     			<li class="logo"><img src="./Img/img/T.jpg"></li>
     			<li> <a href="index.html"class="current">Home</a></li>
-    			<li class="cart"><a href="cart.html" target="blank"><img src="./img/cart.png"></a></li>
+                        <li class="cart"><a href="cart.html" target="blank"><img src="./Img/img/cart.png"></a></li>
                 <li><form>
           <input type="email" placeholder="Enter ...">
           <button type="submit" class="button_1">Search</button>

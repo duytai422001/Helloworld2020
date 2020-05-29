@@ -173,7 +173,7 @@ nav ul li{
     <div class="container">
     	<div class="menu">
     		<ul>
-    			<li class="logo"><img src="./img/T.jpg"></li>
+                    <li class="logo"><img src="./Img/img/T.jpg"></li>
     			<li> <a href="index.html"class="current">Home</a></li>
     			<li class="cart"><a href="cart.html" target="blank"><img src="./img/cart.png"></a></li>
                 <li><form>
@@ -205,21 +205,21 @@ nav ul li{
     		<div class="container1">
     	<div class="box1">
     		<a href="MacBook.html"target="blank">
-    		<img src="./img/laptop.png">
+    		<img src=".Img/img/laptop.png">
     		</a>
     		<h3>MacBook</h3>
     		
     	</div>
     	<div class="box2">
     		<a href="Iphone.html"target="blank">
-    		<img src="./img/iphone.png" >
+    		<img src=".Img/img/iphone.png" >
     		</a>
     		<h3>Iphone</h3>
     		
     	</div>
     	<div class="box3">
     		<a href="Applewatch.html"target="blank">
-    		<img src="./img/watch.png" >
+    		<img src=".Img/img/watch.png" >
     		</a>
     		<h3>Apple Watch</h3>
     		

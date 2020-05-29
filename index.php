@@ -11,6 +11,6 @@ and open the template in the editor.
     </head>
     <body>
         <h1> Hello World </h1>
-        <a href="https://www.google.com/"
+        <a href="https://www.google.com/"> Google </a> 
     </body>
 </html>
